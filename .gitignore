@@ -13,7 +13,6 @@
  out/
  .idea_modules/
  atlassian-ide-plugin.xml
- target/
 
  # macOS
  .DS_Store
